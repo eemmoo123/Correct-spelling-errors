@@ -95,6 +95,6 @@ This is a simple interactive tool for correcting English spelling mistakes using
 
 ## ✍️ Author
 
-Developed by [Your Name Here].  
+Developed by [IBRAHIM HASSAN YAHYA ALLULI].  
 تم تطويرها بواسطة [ابراهيم حسن يحيى علولي].
 https://colab.research.google.com/drive/1nCaS8FtMzA3dq_LFwLdTskIjPbDakwdt?authuser=0
