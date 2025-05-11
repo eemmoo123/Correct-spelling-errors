@@ -1,5 +1,10 @@
 # Correct-spelling-errors
 # Simple Spelling Correction with ipywidgets  
+
+![لقطة شاشة 2025-05-12 020911](https://github.com/user-attachments/assets/738d29dd-70e1-4758-80db-8e76a23033e1)
+
+![لقطة شاشة 2025-05-12 020850](https://github.com/user-attachments/assets/6797bd87-b8d1-4a89-bb38-567e53418674)
+
 # أداة بسيطة لتصحيح الأخطاء الإملائية باستخدام ipywidgets
 
 ## 📌 Description | الوصف
